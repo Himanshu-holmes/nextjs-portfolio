@@ -1,8 +1,8 @@
 {
-  "name": "Chetan",
+  "name": "Himanshu",
   "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm Chetan Verma - curious",
-  "headerTaglineThree": "designer and devloper",
+  "headerTaglineTwo": "I'm Himanshu Kumar - curious",
+  "headerTaglineThree": "Fullstack developer",
   "headerTaglineFour": " based in New Delhi, India.",
   "showBlog": true,
   "darkMode": true,
@@ -10,20 +10,20 @@
     {
       "id": "1",
       "title": "Github",
-      "link": "https://github.com/chetanverma16"
+      "link": "https://github.com/Himanshu-holmes"
     },
     {
       "id": "2",
       "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/chetanverma7/"
+      "link": "https://www.linkedin.com/in/himanshu-holmes-00538821b/"
     },
     {
       "id": "3",
       "title": "Twitter",
-      "link": "https://twitter.com/realchetanverma"
+      "link": ""
     },
-    { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
-    { "id": "5", "title": "Email", "link": "mailto:hello@chetanverma.com" }
+   
+    { "id": "5", "title": "Email", "link": "mailto:himanshuholmes@gmail.com.com" }
   ],
   "projects": [
     {
