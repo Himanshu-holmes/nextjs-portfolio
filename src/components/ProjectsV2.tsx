@@ -57,7 +57,7 @@ export function ProjectsV2() {
                 // width="935"
                 // height="526"
                 className="w-full lg:w-[40vw] xl:w-[50vw] h-96 lg:h-[54vh]"
-                src="https://drive.google.com/file/d/16SLICfF47GewNzznqmbuNqMfq5m3SdhR/preview?usp=sharing"
+                src="https://drive.google.com/file/d/1RTXoT3enmdSDbz8AJ0XpvKb0wOIqYX-s/view?usp=sharing"
                 title="cloud-ide"
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

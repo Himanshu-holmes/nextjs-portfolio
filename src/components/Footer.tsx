@@ -38,7 +38,7 @@ const Footer = () => {
           Twitter
         </Link>
         <Link
-          href="https://drive.google.com/file/d/1xe-W1Fqm0CrXi3xa-uh1F1Sp4i3C98Z-/view?usp=sharing"
+          href="https://drive.google.com/file/d/1RTXoT3enmdSDbz8AJ0XpvKb0wOIqYX-s/view?usp=sharing"
           target="_blank"
           className="hover:text-white/50"
         >
