@@ -45,8 +45,8 @@ export function ProjectsV2() {
                   This FastAPI and React.js application enables users to
                   seamlessly upload PDF files, extract text using PyMuPDF, and
                   store the extracted content as vector embeddings in FAISS for
-                  efficient retrieval. Leveraging Google's Gemini AI, the system
-                  allows users to query the uploaded documents, providing
+                  efficient retrieval. Leveraging Google&#39;s Gemini AI, the
+                  system allows users to query the uploaded documents, providing
                   intelligent question-answering capabilities for enhanced
                   information access and retrieval.
                 </p>
