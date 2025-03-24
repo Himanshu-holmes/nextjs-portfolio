@@ -12,8 +12,8 @@ const HomeAbout = () => {
         transition={{ delay: 0.3, duration: 0.6 }}
       >
         <h1 className="text-4xl xl:text-5xl w-[80%] lg:w-[70%] font-KGBlankSpaceSketch text-white justify-start lg:pr-44">
-          Hello! I am Himanshu, a dedicated Fullstack Developer with a passion for
-          shaping the digital world.
+          Hey there! I am Himanshu, a Full-Stack Developer who loves turning
+          ideas into powerful, scalable digital experiences.
         </h1>
       </motion.div>
       <motion.div
@@ -36,9 +36,9 @@ const HomeAbout = () => {
         transition={{ delay: 0.3, duration: 0.6 }}
       >
         <p className="font-PPNeueMontrealBook text-xl xl:text-2xl w-[80%] lg:w-[50%] bg-[#171717] p-4 rounded-2xl">
-          I specialize in designing intuitive interfaces and efficient systems,
-          creating engaging experiences for online platforms. My focus is on
-          seamless functionality and memorable user interactions.
+          I specialize in building scalable and efficient systems while ensuring
+          intuitive user interfaces for seamless and engaging digital
+          experiences
         </p>
       </motion.div>
     </div>

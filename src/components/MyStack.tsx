@@ -7,6 +7,24 @@ import Link from "next/link";
 
 const stack = [
   {
+    name: "Go",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg",
+    type: "Programming Language",
+    link: "https://go.dev/",
+  },
+  {
+    name: "python",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg",
+    type: "Programming Language",
+    link: "https://python.org/",
+  },
+  {
+    name: "fastapi",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg",
+    type: "Web Framework",
+    link: "https://fastapi.tiangolo.com/",
+  },
+  {
     name: "React.js",
     icon: "/icons/react.svg",
     type: "User Interface Library",
@@ -59,12 +77,6 @@ const stack = [
     icon: "/icons/socket.svg",
     type: "Real-time communication",
     link: "https://socket.io/",
-  },
-  {
-    name: "NPM",
-    icon: "/icons/npm.svg",
-    type: "Package manager",
-    link: "https://www.npmjs.com/",
   },
 ];
 

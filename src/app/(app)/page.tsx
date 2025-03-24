@@ -91,11 +91,17 @@ const page = () => {
                 Contact Me
               </Button>
             </Link>
-            <p className=" text-sm md:text-xl mx-4 md:w-[500px] mb-3 md:mb-0 pl-8 sm:px-8 text-wrap text-left font-roboto ">
-              Hello, I&apos;m Himanshu Kumar, a full-stack developer from India,
-              proficient in MERN and Next.js, with expertise in crafting
-              efficient APIs and beautiful websites, leveraging SQL and NoSQL
-              databases.
+            <p className=" text-sm md:text-xl mx-4 md:w-[600px] mb-3 md:mb-0 pl-8  text-wrap text-left font-roboto ">
+              Hello, I&apos;m Himanshu Kumar, a full-stack developer from India
+              with expertise in JavaScript, TypeScript, Python, and Go. I
+              specialize in building scalable web applications and AI-driven
+              solutions using frameworks like FastAPI, NestJS, Flask, React.js,
+              and Next.js, along with Langchain for advanced AI integrations. I
+              work with SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) databases,
+              leveraging microservices and serverless architectures. Passionate
+              about crafting efficient APIs and high-performance applications, I
+              utilize tools like Docker, Redis, Kafka, and cloud platforms such
+              as AWS, Render, Netlify, and Vercel.
             </p>
           </motion.div>
         </div>
