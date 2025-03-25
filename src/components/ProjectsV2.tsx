@@ -54,11 +54,11 @@ export function ProjectsV2() {
             </div>
             <div className="">
               <iframe
-                // width="935"
-                // height="526"
+                // width="560"
+                // height="315"
                 className="w-full lg:w-[40vw] xl:w-[50vw] h-96 lg:h-[54vh]"
-                src="https://drive.google.com/file/d/1RTXoT3enmdSDbz8AJ0XpvKb0wOIqYX-s/view?usp=sharing"
-                title="cloud-ide"
+                src="https://www.youtube.com/embed/rmwQhMBZB6o?si=hgbDVxNnw-VXIrxK"
+                title="YouTube video player"
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 referrerPolicy="strict-origin-when-cross-origin"
